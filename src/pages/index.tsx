@@ -1,5 +1,5 @@
 import Main from 'components/Main'
 
 export default function Home() {
-  return <Main />
+  return <Main title="Despesas Mensais" description="Adicione uma despesa" />
 }

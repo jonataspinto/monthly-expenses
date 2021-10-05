@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should render the heading 1`] = `
+.c0 {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 0.5rem;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+  background-color: #fcfcfc;
+  font-size: 1.75rem;
+}
+
+.c0:hover {
+  background-color: #dddddd;
+}
+
+.c0:disabled {
+  cursor: not-allowed;
+  background-color: #dddddd;
+}
+
+<button
+  class="c0"
+>
+  Button
+</button>
+`
